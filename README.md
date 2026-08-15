@@ -44,7 +44,7 @@ Currently architecting a production-ready local Kubernetes sandbox to deploy and
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poludin&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=poludin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
