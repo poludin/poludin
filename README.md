@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aleksandr Poludin 👋</h1>
 
-<h3 align="center">DevOps & Site Reliability Engineer | Platform Engineering</h3>
+<h3 align="center">DevOps & Site Reliability Engineer</h3>
 
 <p align="center">
   I specialize in infrastructure automation, database reliability engineering, and building resilient, containerized platforms. I focus on bridging the gap between complex architectural designs and stable, scalable deployments.
@@ -43,9 +43,7 @@ Currently architecting a production-ready local Kubernetes sandbox to deploy and
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poludin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poludin&show_icons=true&theme=radical&hide_border=true&v=1)](https://github.com/poludin)
 
 ---
 
