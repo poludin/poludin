@@ -28,7 +28,7 @@ Currently architecting a production-ready local Kubernetes sandbox to deploy and
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoсolor=white)
 
 **Databases & Messaging**  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,9 +44,7 @@ Currently architecting a production-ready local Kubernetes sandbox to deploy and
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=poludin&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=poludin&theme=radical&hide_border=true)](https://github.com/poludin)
 
 ---
 
