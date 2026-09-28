@@ -1,44 +1,47 @@
 <h1 align="center">Hi there, I'm Aleksandr Poludin 👋</h1>
 
-<h3 align="center">DevOps & Site Reliability Engineer</h3>
+<h3 align="center">Data Platform Engineer & HighLoad SRE</h3>
 
 <p align="center">
-  I specialize in infrastructure automation, database reliability engineering, and building resilient, containerized platforms. I focus on bridging the gap between complex architectural designs and stable, scalable deployments.
+  I specialize in architecting distributed stateful systems, kernel-level network tuning, and infrastructure automation. My core focus is bringing extreme reliability to data-intensive applications running on Kubernetes—bridging the gap between raw hardware performance (I/O, eBPF) and scalable cluster deployments.
 </p>
 
 ---
 
-### 🔭 Current Focus & Featured Project
+### 🔭 Current Focus & Featured Track: "Build in Public"
 
-**🚧 [AI-Stack Observability Sandbox](#) *(Work in Progress)***  
-Currently architecting a production-ready local Kubernetes sandbox to deploy and monitor AI-native infrastructure. 
-* **Stack:** Helm, Envoy, Kafka, Vector, Prometheus, Grafana, Milvus/ClickHouse.
-* **Goal:** Providing a 1-click deployment for deep observability, gRPC traffic load balancing, and performance telemetry for self-hosted LLMs and RAG systems. 
-* *Follow my progress on LinkedIn as I build this in public!*
+**🚧 [HighLoad Data Platform & K8s Internals](#) *(Active R&D Track)***  
+Currently transitioning from traditional DevOps to deep Data SRE, actively engineering a robust, multi-node Proxmox VE / OKD sandbox to simulate and solve enterprise-grade stateful failures.
+* **Core Stack:** Go, Kubernetes (Advanced Scheduling, Local PV), Apache Kafka, ClickHouse, ScyllaDB, Cilium (eBPF).
+* **Current Objectives:** 
+  * Developing custom Kubernetes Operators in Go to automate database failovers and replication setups.
+  * Tuning TCP buffers, NIC ring buffers, and network I/O for high-throughput distributed queues.
+  * Implementing Active-Passive Kafka federation using Strimzi and MirrorMaker 2.
+* *Follow my weekly deep-dives and post-mortems on LinkedIn as I build and break this cluster!*
 
 ### 🛠 Tech Stack & Tools
 
-**Infrastructure & Orchestration**  
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-
-**CI/CD & Automation**  
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+**Systems Programming & Automation**  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-**Databases & Messaging**  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Infrastructure, Orchestration & Networking**  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cilium](https://img.shields.io/badge/cilium-%23F6D15E.svg?style=for-the-badge&logo=cilium&logoColor=black)
+
+**Distributed Databases & Messaging**  
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-62B4CB?style=for-the-badge&logo=scylladb&logoColor=white)
 
-**Observability & Networking**  
+**Observability & Telemetry**  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Envoy](https://img.shields.io/badge/Envoy-F83E00?style=for-the-badge&logo=envoyproxy&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ---
 
@@ -49,7 +52,7 @@ Currently architecting a production-ready local Kubernetes sandbox to deploy and
 ---
 
 ### ⚡ Fun Fact
-I believe in strict discipline both in systems architecture and in life. My day usually kicks off between 05:30 and 06:00 with a heavy split-routine workout before I even look at a cluster configuration. 🏋️‍♂️
+I believe in strict discipline both in systems architecture and in daily life. My day kicks off between 05:30 and 06:00. Whether it's hitting the pavement for a run or pushing through a heavy split-routine (chest, back, shoulders, legs, arms, and core), that early morning momentum sets the standard before I even look at a cluster configuration or kernel parameter. 🏋️‍♂️
 
 📫 **How to reach me:**
 <br>
