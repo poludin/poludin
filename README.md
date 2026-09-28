@@ -12,7 +12,7 @@
 
 **🚧 [HighLoad Data Platform & K8s Internals](#) *(Active R&D Track)***  
 Currently transitioning from traditional DevOps to deep Data SRE, actively engineering a robust, multi-node Proxmox VE / OKD sandbox to simulate and solve enterprise-grade stateful failures.
-* **Core Stack:** Go, Kubernetes (Advanced Scheduling, Local PV), Apache Kafka, ClickHouse, ScyllaDB, Cilium (eBPF).
+* **Core Stack:** Go, Kubernetes (Advanced Scheduling, Local PV), Apache Kafka, ClickHouse, ScyllaDB, PostgreSQL, Cilium (eBPF).
 * **Current Objectives:** 
   * Developing custom Kubernetes Operators in Go to automate database failovers and replication setups.
   * Tuning TCP buffers, NIC ring buffers, and network I/O for high-throughput distributed queues.
