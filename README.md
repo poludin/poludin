@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aleksandr Poludin 👋</h1>
 
-<h3 align="center">Data Platform Engineer & HighLoad SRE</h3>
+<h3 align="center">Data Platform Engineer & Database Reliability Engineer (DBRE)</h3>
 
 <p align="center">
   I specialize in architecting distributed stateful systems, kernel-level network tuning, and infrastructure automation. My core focus is bringing extreme reliability to data-intensive applications running on Kubernetes—bridging the gap between raw hardware performance (I/O, eBPF) and scalable cluster deployments.
@@ -13,10 +13,10 @@
 **🚧 [HighLoad Data Platform & K8s Internals](#) *(Active R&D Track)***  
 Currently transitioning from traditional DevOps to deep Data SRE, actively engineering a robust, multi-node Proxmox VE / OKD sandbox to simulate and solve enterprise-grade stateful failures.
 * **Core Stack:** Go, Kubernetes (Advanced Scheduling, Local PV), Apache Kafka, ClickHouse, ScyllaDB, PostgreSQL, Cilium (eBPF).
-* **Current Objectives:** 
-  * Developing custom Kubernetes Operators in Go to automate database failovers and replication setups.
-  * Tuning TCP buffers, NIC ring buffers, and network I/O for high-throughput distributed queues.
-  * Implementing Active-Passive Kafka federation using Strimzi and MirrorMaker 2.
+* **Current Objectives (Phase 1: Messaging & Consensus):** 
+  * Implementing Active-Passive Apache Kafka federation using Strimzi and MirrorMaker 2 on a bare-metal OKD cluster.
+  * Deep-diving into Kafka internals: KRaft, Page Cache utilization, and zero-copy data transfer.
+  * Writing resilient, concurrent Go clients to handle high-throughput streams and network partitions.
 * *Follow my weekly deep-dives and post-mortems on LinkedIn as I build and break this cluster!*
 
 ### 🛠 Tech Stack & Tools
